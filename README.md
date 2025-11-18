@@ -1,1 +1,3 @@
-# learning-about-version-control2
+# Learning about Version Control
+
+Author: Sky Sheng
